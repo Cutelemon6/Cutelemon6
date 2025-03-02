@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋, I'm xuyimeng
 <!--
 **Cutelemon6/Cutelemon6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+✨ About Me🍋:
+
+* 🤓 I’m currently studying at Beijing Institute of Technology.
+* 🤗 I'm recently learning deep learning, pipeline parallel.
+* 🌍 I dream of learning multiple languages in the world.
+* 📫 How to reach me: xuyimeng.cn@gmail.com
+
+[![Cutelemon6's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cutelemon6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Yimeng Xu profile views](https://u8views.com/api/v1/github/profiles/95557003/views/day-week-month-total-count.svg)](https://u8views.com/github/Cutelemon6)
